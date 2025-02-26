@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/YRPortfolio/static/css/main.d0cdb9eb.css",
-    "main.js": "/YRPortfolio/static/js/main.050066d4.js",
-    "static/js/453.acca0757.chunk.js": "/YRPortfolio/static/js/453.acca0757.chunk.js",
-    "static/media/myimg.png": "/YRPortfolio/static/media/myimg.92925c9e8c9a1d7713a1.png",
-    "index.html": "/YRPortfolio/index.html",
-    "main.d0cdb9eb.css.map": "/YRPortfolio/static/css/main.d0cdb9eb.css.map",
-    "main.050066d4.js.map": "/YRPortfolio/static/js/main.050066d4.js.map",
-    "453.acca0757.chunk.js.map": "/YRPortfolio/static/js/453.acca0757.chunk.js.map"
+    "main.css": "/react-portfolio/static/css/main.d0cdb9eb.css",
+    "main.js": "/react-portfolio/static/js/main.c9aa6173.js",
+    "static/js/453.acca0757.chunk.js": "/react-portfolio/static/js/453.acca0757.chunk.js",
+    "static/media/myimg.png": "/react-portfolio/static/media/myimg.92925c9e8c9a1d7713a1.png",
+    "index.html": "/react-portfolio/index.html",
+    "main.d0cdb9eb.css.map": "/react-portfolio/static/css/main.d0cdb9eb.css.map",
+    "main.c9aa6173.js.map": "/react-portfolio/static/js/main.c9aa6173.js.map",
+    "453.acca0757.chunk.js.map": "/react-portfolio/static/js/453.acca0757.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d0cdb9eb.css",
-    "static/js/main.050066d4.js"
+    "static/js/main.c9aa6173.js"
   ]
 }
