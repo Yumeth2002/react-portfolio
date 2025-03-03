@@ -37,8 +37,9 @@ function App() {
         <h1>Yumeth Ransana</h1>
         <h3>Passionate IT Undergraduate | Aspiring Software Engineer | Problem Solver</h3>
         <p>
-          📞 0760317583 | 📧 <a href="mailto:yumethransana@gmail.com">yumethransana@gmail.com</a>
-        </p>
+           📞 <a href="tel:0760317583">0760317583</a> | 📧 <a href="mailto:yumethransana@gmail.com">yumethransana@gmail.com</a>
+       </p>
+
         <p>
           🔗 <a href="https://www.linkedin.com/in/yumeth-ransana-797275317" target="_blank" rel="noopener noreferrer">
             LinkedIn Profile
@@ -58,8 +59,8 @@ function App() {
         <h2>Education</h2>
         <ul>
           <li><strong>BSc (Hons) in Information Technology</strong> - SLIIT University (2022 - Present)</li>
-          <li>Advanced Level (Technology Stream) - Karunarathne Buddhist National College (2019-2021)</li>
-          <li>Ordinary Level - Seventh-Day Adventist High School (2007-2018)</li>
+          <li> G.C.O.E Advanced Level by Technology stream.(2019-2021)</li>
+          <li>G.C.O.E  Ordinary Level .(2007-2018)</li>
         </ul>
       </section>
 
