@@ -30,7 +30,7 @@ function App() {
             height: "200px",
             borderRadius: "50%",
             marginBottom: "20px",
-            border: "3px solid #ffd700",
+            border: "3px solid #21211eff",
             objectFit: "cover"
           }}
         />
@@ -50,7 +50,7 @@ function App() {
       <section id="about">
         <h2>About Me</h2>
         <p>
-          Enthusiastic and motivated third-year IT undergraduate at SLIIT University, specializing in
+          Enthusiastic and motivated 4th-year IT undergraduate at SLIIT University, specializing in
           Information Technology. Passionate about developing efficient, scalable applications and solving complex problems.
         </p>
       </section>
